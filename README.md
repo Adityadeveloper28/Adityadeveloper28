@@ -15,8 +15,10 @@ I am a passionate developer who loves to explore new technologies and contribute
 
 ## 🌟 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical)
+<div style="background-color:white; padding:10px; border-radius:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
+</div>
 
 ## 📫 Connect with me
 
