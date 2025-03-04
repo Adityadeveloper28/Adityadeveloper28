@@ -10,8 +10,10 @@ I am a passionate developer who loves to explore new technologies and contribute
 - 📫 How to reach me: [singhadi280303@gmail.com](mailto:singhadi280303@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
+<div style="display: flex; justify-content: space-between; background-color: white; padding: 10px; border-radius: 10px;">
 <img src="https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f" alt="image" width="200" height="200">
 <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" alt"image" width="200" height="200">
+</div>
 
 ## 🌟 GitHub Stats
 
