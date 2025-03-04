@@ -10,6 +10,8 @@ I am a passionate developer who loves to explore new technologies and contribute
 - 📫 How to reach me: [adityadeveloper28@example.com](mailto:adityadeveloper28@example.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
+![Developer at work](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/developer-pixel-art.png)
+
 ## 🌟 GitHub Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical)
@@ -19,6 +21,8 @@ I am a passionate developer who loves to explore new technologies and contribute
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityadeveloper28/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/adityadeveloper28)
+
+![Developer coding](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/coding-pixel-art.png)
 
 ## 💼 My Projects
 
@@ -87,5 +91,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adityadeveloper28&theme=react-dark)
+
+![Developer working on a laptop](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/laptop-pixel-art.png)
 
 Thank you for visiting my profile! Have a great day! 😊
