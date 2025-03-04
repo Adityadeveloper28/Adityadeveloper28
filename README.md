@@ -20,7 +20,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical)
 
 # ☠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="auto" height="200">
 
 
 ## 📫 Connect with me
