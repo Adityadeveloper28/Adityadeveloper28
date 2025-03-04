@@ -17,7 +17,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 
 <div style="background-color:white;">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="450" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ## 📫 Connect with me
