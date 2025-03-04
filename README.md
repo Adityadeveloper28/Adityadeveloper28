@@ -24,7 +24,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityadeveloper28/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/adityadeveloper28)
 
-<img src="https://github.com/Adityadeveloper28/your-repo/raw/main/assets/coding-pixel-art.png" alt="Developer coding" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/39ef550e-6cc6-4e46-b7d0-96bf009b3dcb" alt="Developer coding" width="200" height="200">
 
 ## 💼 My Projects
 
