@@ -7,16 +7,16 @@ I am a passionate developer who loves to explore new technologies and contribute
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with improving my coding skills.
 - 💬 Ask me about web development, JavaScript, Python, and cloud technologies.
-- 📫 How to reach me: [adityadeveloper28@example.com](mailto:singhadi280303@gmail.com)
+- 📫 How to reach me: [singhadi280303@gmail.com](mailto:singhadi280303@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 <img src="https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f" alt="image" width="200" height="200">
 
 ## 🌟 GitHub Stats
 
-<div style="background-color:white; padding:10px; border-radius:10px;display:flex;width:"full">
+<div style="display: flex; justify-content: space-between; background-color: white; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="auto" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
 </div>
 
 ## 📫 Connect with me
