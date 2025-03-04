@@ -7,7 +7,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with improving my coding skills.
 - 💬 Ask me about web development, JavaScript, Python, and cloud technologies.
-- 📫 How to reach me: [adityadeveloper28@example.com](mailto:adityadeveloper28@example.com)
+- 📫 How to reach me: [adityadeveloper28@example.com](mailto:singhadi280303@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ![Developer at work](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/developer-pixel-art.png)
