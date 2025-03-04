@@ -10,7 +10,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 - 📫 How to reach me: [adityadeveloper28@example.com](mailto:singhadi280303@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
-![image](https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f)
+<img src="https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f" alt="image" width="200" height="200">
 
 
 ## 🌟 GitHub Stats
