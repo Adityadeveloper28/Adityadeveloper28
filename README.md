@@ -22,7 +22,6 @@ I am a passionate developer who loves to explore new technologies and contribute
 # ☠️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&langs_count=8)
 
-[![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adityadeveloper28)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Connect with me
