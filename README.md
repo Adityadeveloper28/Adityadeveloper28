@@ -11,6 +11,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 <img src="https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f" alt="image" width="200" height="200">
+<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" alt"image" width="200" height="200">
 
 ## 🌟 GitHub Stats
 
