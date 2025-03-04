@@ -12,12 +12,11 @@ I am a passionate developer who loves to explore new technologies and contribute
 
 <img src="https://github.com/user-attachments/assets/0edee06b-c8b7-4a92-b61a-679678314a4f" alt="image" width="200" height="200">
 
-
 ## 🌟 GitHub Stats
 
-<div style="background-color:white;">
+<div style="background-color:white; padding:10px; border-radius:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityadeveloper28&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadeveloper28&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
 </div>
 
 ## 📫 Connect with me
@@ -25,7 +24,7 @@ I am a passionate developer who loves to explore new technologies and contribute
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityadeveloper28/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/adityadeveloper28)
 
-![Developer coding](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/coding-pixel-art.png)
+<img src="https://github.com/Adityadeveloper28/your-repo/raw/main/assets/coding-pixel-art.png" alt="Developer coding" width="200" height="200">
 
 ## 💼 My Projects
 
@@ -95,6 +94,6 @@ I am a passionate developer who loves to explore new technologies and contribute
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adityadeveloper28&theme=react-dark)
 
-![Developer working on a laptop](https://github.com/Adityadeveloper28/your-repo/raw/main/assets/laptop-pixel-art.png)
+<img src="https://github.com/Adityadeveloper28/your-repo/raw/main/assets/laptop-pixel-art.png" alt="Developer working on a laptop" width="200" height="200">
 
 Thank you for visiting my profile! Have a great day! 😊
